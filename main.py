@@ -28,7 +28,7 @@ from aiogram.types import (CallbackQuery, ChatMemberUpdated, KeyboardButton,
 from aiogram.utils.keyboard import InlineKeyboardBuilder, ReplyKeyboardBuilder
 
 # =================== SOZLAMALAR ===================
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "BU_YERGA_YANGI_TOKENNI_YOZING")
+BOT_TOKEN = os.environ.get("8954402979:AAEau6bM1M0l1j_jDrMBatr1zPHmC2ppJac")
 ADMIN_ID = int(os.environ.get("ADMIN_ID", "8554402317"))      # BOSH ADMIN
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 AI_MODEL = os.environ.get("AI_MODEL", "claude-sonnet-5-5")
